@@ -29,7 +29,7 @@ function Home() {
     <div className="home-container">
       <img src={githubLogo} alt="GitHub Logo" className="home-github-logo" />
       <div className="home-github-name">
-        <strong className="home-github-text">GitHub</strong>
+        <strong className="home-github-text">Deploy</strong>
         <span className="home-github-search-text">SEARCH</span>
       </div>
       <form className="home-form" onSubmit={handleSubmit}>
